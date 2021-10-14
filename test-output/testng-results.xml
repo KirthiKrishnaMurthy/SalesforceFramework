@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-11T16:14:37 PDT" name="Default suite" finished-at="2021-10-11T16:15:07 PDT" duration-ms="30080">
+    <groups>
+    </groups>
+    <test started-at="2021-10-11T16:14:37 PDT" name="Default test" finished-at="2021-10-11T16:15:07 PDT" duration-ms="30080">
+      <class name="com.training.test.home.RandomScenariosTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.test.home.RandomScenariosTest@2bfc268b]" started-at="2021-10-11T16:14:37 PDT" name="beforeTest" finished-at="2021-10-11T16:14:45 PDT" duration-ms="7701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Blockingeventcalender()[pri:0, instance:com.training.test.home.RandomScenariosTest@2bfc268b]" started-at="2021-10-11T16:14:45 PDT" name="Blockingeventcalender" description="TC_36_Blockingeventcalender" finished-at="2021-10-11T16:15:07 PDT" duration-ms="22331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blockingeventcalender -->
+      </class> <!-- com.training.test.home.RandomScenariosTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
